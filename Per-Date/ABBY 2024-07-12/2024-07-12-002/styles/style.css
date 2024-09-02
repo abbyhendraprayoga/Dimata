@@ -1,0 +1,44 @@
+.tbl {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto 0;
+    max-width: 600px;
+}
+
+table{
+    background-color: orange;
+    border-collapse: collapse;
+    border-color: black;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.name-table {
+    width: 7rem;
+}
+
+.food-table {
+    width: 6rem;
+}
+
+.group-table {
+    width: 15rem;
+}
+
+td {
+    height: 5rem;
+}
+
+input {
+    font-weight: bold;
+}
+
+hr {
+    height: 2px;
+    width: 100%;
+}
